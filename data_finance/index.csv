@@ -28,7 +28,7 @@ idx_name,idx_def,symbol_yf
 "S&P/CLX IPSA		",,^IPSA
 "S&P/NZX 50 INDEX GROSS		",,^NZ50
 "S&P/TSX Composite index		",,^GSPTSE
-"SPDR S&P 500 ETF Trust 			",,^SPY
+"SPDR S&P 500 ETF Trust 			",,SPY
 "SSE Composite Index			",,000001.SS
 "STI Index			",,^STI
 "TA-125		",,^TA125.TA
