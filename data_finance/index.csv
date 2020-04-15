@@ -1,0 +1,37 @@
+idx_name,idx_def,symbol_yf
+"ALL ORDINARIES			",,^AORD
+"BEL 20			",,^BFX
+"CAC 40			",,^FCHI
+"Cboe UK 100 Price Return			",,^BUK100P
+"DAX PERFORMANCE-INDEX			",,^GDAXI
+"Dow Jones Industrial Average			",,^DJI
+"EGX 30 Price Return Index	",,^CASE30
+"ESTX 50 PR.EUR			",,^STOXX50E
+"EURONEXT 100		",,^N100
+"FTSE 100			",,^FTSE
+"FTSE Bursa Malaysia KLCI		",,^KLSE
+"HANG SENG INDEX			",,^HSI
+"IBOVESPA		",,^BVSP
+"IPC MEXICO			",,^MXX
+"Jakarta Composite Index			",,^JKSE
+"KOSPI Composite Index	",,^KS11
+"MERVAL		",,^MERV
+"MOEX Russia Index			",,IMOEX.ME
+"NASDAQ Composite			",,^IXIC
+"Nikkei 225			",,^N225
+"NYSE AMEX COMPOSITE INDEX			",,^XAX
+"NYSE COMPOSITE (DJ)			",,^NYA
+"Russell 2000			",,^RUT
+"S&P 500			",,^GSPC
+"S&P BSE SENSEX			",,^BSESN
+"S&P/ASX 200			",,^AXJO
+"S&P/CLX IPSA		",,^IPSA
+"S&P/NZX 50 INDEX GROSS		",,^NZ50
+"S&P/TSX Composite index		",,^GSPTSE
+"SPDR S&P 500 ETF Trust 			",,^SPY
+"SSE Composite Index			",,000001.SS
+"STI Index			",,^STI
+"TA-125		",,^TA125.TA
+Top 40 USD Net TRI Index,,^JN0U.JO
+"TSEC weighted index	",,^TWII
+"Vix			",,^VIX
