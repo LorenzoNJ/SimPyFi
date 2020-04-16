@@ -1,0 +1,7 @@
+vix_info,ticker_cboe,symbol_fred
+Cboe Equity VIX® on S&P 500,VIX,VIXCLS
+Cboe Equity VIX® on IBM,VXIBM,VXIBMCLS
+Cboe Equity VIX® on Apple,VXAPL,VXAPLCLS
+Cboe Equity VIX® on Amazon,VXAZN,VXAZNCLS
+Cboe Equity VIX® on Goldman Sachs,VXGS, VXGSCLS
+Cboe Equity VIX® on Google,VXGOG,VXGOGCLS
